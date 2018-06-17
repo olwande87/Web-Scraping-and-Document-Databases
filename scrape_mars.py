@@ -1,12 +1,3 @@
-# coding: utf-8
-
-# # Misson to Mars
-
-# # Step 1 - Scraping
-# -------
-# ## NASA Mars News
-# -------
-# - Get the latest  [NASA Mars News](https://mars.nasa.gov/news/) by scraping the website and collect the latest news title and paragragh text.
 
 
 # Dependencies
